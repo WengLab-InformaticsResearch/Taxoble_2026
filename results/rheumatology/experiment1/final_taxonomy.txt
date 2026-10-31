@@ -1,0 +1,1685 @@
+rheumatology
+├─ measurement
+├─ └─ lab measurement
+├─ └─ └─ serum urate
+├─ process
+├─ └─ phagocytosis
+├─ └─ └─ efferocytosis
+├─ method
+├─ ├─ diagnostic technique
+├─ ├─ ├─ diagnostic modality
+├─ ├─ ├─ ├─ diagnostic test
+├─ ├─ ├─ ├─ └─ rheumatoid factor
+├─ ├─ ├─ ├─ └─ ├─ bone biomarker
+├─ ├─ ├─ ├─ └─ ├─ ├─ bone morphogenetic protein
+├─ ├─ ├─ ├─ └─ ├─ ├─ └─ growth differentiation factor 5
+├─ ├─ ├─ ├─ └─ ├─ └─ bone mineral density
+├─ ├─ ├─ ├─ └─ ├─ immune complex
+├─ ├─ ├─ ├─ └─ ├─ gene
+├─ ├─ ├─ ├─ └─ ├─ ├─ mediterranean fever gene
+├─ ├─ ├─ ├─ └─ ├─ ├─ human leukocyte antigen
+├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ human leukocyte antigen dr
+├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ └─ human leukocyte antigen drb1
+├─ ├─ ├─ ├─ └─ ├─ ├─ └─ human leukocyte antigen b27
+├─ ├─ ├─ ├─ └─ ├─ ├─ fam167a
+├─ ├─ ├─ ├─ └─ ├─ └─ wnt16
+├─ ├─ ├─ ├─ └─ ├─ modified stoke ankylosing spondylitis spine score
+├─ ├─ ├─ ├─ └─ ├─ tenascin c
+├─ ├─ ├─ ├─ └─ ├─ molecular target
+├─ ├─ ├─ ├─ └─ ├─ ├─ peptidyl arginine deiminase
+├─ ├─ ├─ ├─ └─ ├─ ├─ └─ peptidylarginine deiminase 4
+├─ ├─ ├─ ├─ └─ ├─ ├─ ligand
+├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ ox40 ligand
+├─ ├─ ├─ ├─ └─ ├─ ├─ └─ human leukocyte antigen drb1
+├─ ├─ ├─ ├─ └─ ├─ ├─ peroxisome proliferator activated receptor
+├─ ├─ ├─ ├─ └─ ├─ ├─ └─ peroxisome proliferator activated receptor gamma
+├─ ├─ ├─ ├─ └─ ├─ ├─ acid sensing ion channel 3
+├─ ├─ ├─ ├─ └─ ├─ ├─ toll-like receptors
+├─ ├─ ├─ ├─ └─ ├─ ├─ activin receptor like kinase 2
+├─ ├─ ├─ ├─ └─ ├─ ├─ fc gamma receptor iia
+├─ ├─ ├─ ├─ └─ ├─ ├─ mammalian target of rapamycin
+├─ ├─ ├─ ├─ └─ ├─ └─ signal transducer and activator of transcription 4
+├─ ├─ ├─ ├─ └─ ├─ rs2230926
+├─ ├─ ├─ ├─ └─ ├─ interleukin-12
+├─ ├─ ├─ ├─ └─ ├─ protein biomarker
+├─ ├─ ├─ ├─ └─ ├─ ├─ indoleamine 2 3 dioxygenase
+├─ ├─ ├─ ├─ └─ ├─ ├─ human leukocyte antigen b27
+├─ ├─ ├─ ├─ └─ ├─ ├─ sialic acid binding ig like lectin 1
+├─ ├─ ├─ ├─ └─ ├─ ├─ s100a protein
+├─ ├─ ├─ ├─ └─ ├─ ├─ parathyroid hormone related protein
+├─ ├─ ├─ ├─ └─ ├─ ├─ proteasome subunit beta type 8
+├─ ├─ ├─ ├─ └─ ├─ ├─ matrix gla protein
+├─ ├─ ├─ ├─ └─ ├─ ├─ matrix metalloproteinase
+├─ ├─ ├─ ├─ └─ ├─ ├─ peptidylarginine deiminase 4
+├─ ├─ ├─ ├─ └─ ├─ ├─ wnt16
+├─ ├─ ├─ ├─ └─ ├─ ├─ cytosolic phospholipase a2
+├─ ├─ ├─ ├─ └─ ├─ ├─ galectin 9
+├─ ├─ ├─ ├─ └─ ├─ ├─ bone morphogenetic protein
+├─ ├─ ├─ ├─ └─ ├─ ├─ └─ growth differentiation factor 5
+├─ ├─ ├─ ├─ └─ ├─ ├─ anti ro52 autoantibody
+├─ ├─ ├─ ├─ └─ ├─ ├─ cluster of differentiation 109
+├─ ├─ ├─ ├─ └─ ├─ └─ glycoprotein non metastatic melanoma protein b
+├─ ├─ ├─ ├─ └─ ├─ systemic lupus erythematosus disease activity index
+├─ ├─ ├─ ├─ └─ ├─ complement activation
+├─ ├─ ├─ ├─ └─ ├─ interleukin-6
+├─ ├─ ├─ ├─ └─ ├─ urate
+├─ ├─ ├─ ├─ └─ ├─ interferon signature
+├─ ├─ ├─ ├─ └─ ├─ b cell receptor repertoire
+├─ ├─ ├─ ├─ └─ ├─ integrin
+├─ ├─ ├─ ├─ └─ ├─ glycan biomarker
+├─ ├─ ├─ ├─ └─ ├─ ├─ n linked variable domain v domain glycan
+├─ ├─ ├─ ├─ └─ ├─ └─ glycosaminoglycan
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ chondroitin sulfate
+├─ ├─ ├─ ├─ └─ ├─ └─ └─ chondroitin
+├─ ├─ ├─ ├─ └─ ├─ adenosine deaminase 2
+├─ ├─ ├─ ├─ └─ ├─ neutrophil cytosolic factor 1
+├─ ├─ ├─ ├─ └─ ├─ interleukin receptor antagonist protein
+├─ ├─ ├─ ├─ └─ ├─ b cell activating factor
+├─ ├─ ├─ ├─ └─ └─ neutrophil
+├─ ├─ ├─ └─ imaging
+├─ ├─ ├─ └─ └─ musculoskeletal ultrasound
+├─ ├─ ├─ antibody pattern
+├─ ├─ ├─ └─ antinuclear antibody pattern
+├─ ├─ ├─ diagnosis
+├─ ├─ ├─ ├─ diagnostic tool
+├─ ├─ ├─ ├─ ├─ disease activity score 28
+├─ ├─ ├─ ├─ └─ biomarkers
+├─ ├─ ├─ ├─ └─ └─ acute phase reactant
+├─ ├─ ├─ ├─ assessment
+├─ ├─ ├─ ├─ └─ response criterion
+├─ ├─ ├─ ├─ rheumatoid factor
+├─ ├─ ├─ ├─ ├─ bone biomarker
+├─ ├─ ├─ ├─ ├─ ├─ bone morphogenetic protein
+├─ ├─ ├─ ├─ ├─ ├─ └─ growth differentiation factor 5
+├─ ├─ ├─ ├─ ├─ └─ bone mineral density
+├─ ├─ ├─ ├─ ├─ immune complex
+├─ ├─ ├─ ├─ ├─ gene
+├─ ├─ ├─ ├─ ├─ ├─ mediterranean fever gene
+├─ ├─ ├─ ├─ ├─ ├─ human leukocyte antigen
+├─ ├─ ├─ ├─ ├─ ├─ ├─ human leukocyte antigen dr
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ human leukocyte antigen drb1
+├─ ├─ ├─ ├─ ├─ ├─ └─ human leukocyte antigen b27
+├─ ├─ ├─ ├─ ├─ ├─ fam167a
+├─ ├─ ├─ ├─ ├─ └─ wnt16
+├─ ├─ ├─ ├─ ├─ modified stoke ankylosing spondylitis spine score
+├─ ├─ ├─ ├─ ├─ tenascin c
+├─ ├─ ├─ ├─ ├─ molecular target
+├─ ├─ ├─ ├─ ├─ ├─ peptidyl arginine deiminase
+├─ ├─ ├─ ├─ ├─ ├─ └─ peptidylarginine deiminase 4
+├─ ├─ ├─ ├─ ├─ ├─ ligand
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ox40 ligand
+├─ ├─ ├─ ├─ ├─ ├─ └─ human leukocyte antigen drb1
+├─ ├─ ├─ ├─ ├─ ├─ peroxisome proliferator activated receptor
+├─ ├─ ├─ ├─ ├─ ├─ └─ peroxisome proliferator activated receptor gamma
+├─ ├─ ├─ ├─ ├─ ├─ acid sensing ion channel 3
+├─ ├─ ├─ ├─ ├─ ├─ toll-like receptors
+├─ ├─ ├─ ├─ ├─ ├─ activin receptor like kinase 2
+├─ ├─ ├─ ├─ ├─ ├─ fc gamma receptor iia
+├─ ├─ ├─ ├─ ├─ ├─ mammalian target of rapamycin
+├─ ├─ ├─ ├─ ├─ └─ signal transducer and activator of transcription 4
+├─ ├─ ├─ ├─ ├─ rs2230926
+├─ ├─ ├─ ├─ ├─ interleukin-12
+├─ ├─ ├─ ├─ ├─ protein biomarker
+├─ ├─ ├─ ├─ ├─ ├─ indoleamine 2 3 dioxygenase
+├─ ├─ ├─ ├─ ├─ ├─ human leukocyte antigen b27
+├─ ├─ ├─ ├─ ├─ ├─ sialic acid binding ig like lectin 1
+├─ ├─ ├─ ├─ ├─ ├─ s100a protein
+├─ ├─ ├─ ├─ ├─ ├─ parathyroid hormone related protein
+├─ ├─ ├─ ├─ ├─ ├─ proteasome subunit beta type 8
+├─ ├─ ├─ ├─ ├─ ├─ matrix gla protein
+├─ ├─ ├─ ├─ ├─ ├─ matrix metalloproteinase
+├─ ├─ ├─ ├─ ├─ ├─ peptidylarginine deiminase 4
+├─ ├─ ├─ ├─ ├─ ├─ wnt16
+├─ ├─ ├─ ├─ ├─ ├─ cytosolic phospholipase a2
+├─ ├─ ├─ ├─ ├─ ├─ galectin 9
+├─ ├─ ├─ ├─ ├─ ├─ bone morphogenetic protein
+├─ ├─ ├─ ├─ ├─ ├─ └─ growth differentiation factor 5
+├─ ├─ ├─ ├─ ├─ ├─ anti ro52 autoantibody
+├─ ├─ ├─ ├─ ├─ ├─ cluster of differentiation 109
+├─ ├─ ├─ ├─ ├─ └─ glycoprotein non metastatic melanoma protein b
+├─ ├─ ├─ ├─ ├─ systemic lupus erythematosus disease activity index
+├─ ├─ ├─ ├─ ├─ complement activation
+├─ ├─ ├─ ├─ ├─ interleukin-6
+├─ ├─ ├─ ├─ ├─ urate
+├─ ├─ ├─ ├─ ├─ interferon signature
+├─ ├─ ├─ ├─ ├─ b cell receptor repertoire
+├─ ├─ ├─ ├─ ├─ integrin
+├─ ├─ ├─ ├─ ├─ glycan biomarker
+├─ ├─ ├─ ├─ ├─ ├─ n linked variable domain v domain glycan
+├─ ├─ ├─ ├─ ├─ └─ glycosaminoglycan
+├─ ├─ ├─ ├─ ├─ └─ ├─ chondroitin sulfate
+├─ ├─ ├─ ├─ ├─ └─ └─ chondroitin
+├─ ├─ ├─ ├─ ├─ adenosine deaminase 2
+├─ ├─ ├─ ├─ ├─ neutrophil cytosolic factor 1
+├─ ├─ ├─ ├─ ├─ interleukin receptor antagonist protein
+├─ ├─ ├─ ├─ ├─ b cell activating factor
+├─ ├─ ├─ ├─ └─ neutrophil
+├─ ├─ ├─ └─ diagnostic criteria
+├─ ├─ ├─ └─ ├─ composite criterion
+├─ ├─ ├─ └─ └─ classification criteria
+├─ ├─ └─ laboratory technique
+├─ ├─ └─ ├─ cytometry
+├─ ├─ └─ ├─ └─ cytometry by time of flight
+├─ ├─ └─ └─ indirect immunofluorescence
+├─ └─ research methods
+├─ └─ ├─ study design
+├─ └─ ├─ ├─ case crossover study
+├─ └─ ├─ └─ registry
+├─ └─ ├─ └─ └─ eurofever patient population
+├─ └─ └─ assessment
+├─ └─ └─ └─ response criterion
+├─ outcome
+├─ └─ clinical outcomes
+├─ └─ └─ treatment outcome
+├─ └─ └─ ├─ tolerance
+├─ └─ └─ ├─ └─ immune tolerance
+├─ └─ └─ ├─ └─ └─ b cell tolerance
+├─ └─ └─ └─ sustained disease modifying anti rheumatic drug free remission
+├─ diagnostic result
+├─ └─ diagnostic finding
+├─ └─ └─ radiographic finding
+├─ └─ └─ └─ bone lesion
+├─ └─ └─ └─ └─ syndesmophyte
+├─ experimental system
+├─ ├─ single cell technology
+├─ └─ experimental systems and models
+├─ └─ ├─ computational modeling technique
+├─ └─ ├─ └─ micro finite element analysis
+├─ └─ ├─ mouse study
+├─ └─ ├─ model
+├─ └─ ├─ └─ statistical model
+├─ └─ ├─ └─ └─ multi state model
+├─ └─ ├─ └─ └─ └─ rheumatoid arthritis stroke cerebrovascular events serious adverse events multi state model
+├─ └─ ├─ massively parallel sequencing
+├─ └─ └─ murine scleroderma
+├─ pathology
+├─ └─ pathological finding
+├─ └─ ├─ vascular change
+├─ └─ ├─ └─ vascular remodeling
+├─ └─ ├─ joint damage
+├─ └─ ├─ ├─ bone erosion
+├─ └─ ├─ ├─ └─ erosion
+├─ └─ ├─ └─ radiographic damage
+├─ └─ ├─ fibrosis
+├─ └─ ├─ └─ skin fibrosis
+├─ └─ ├─ └─ ├─ dermal fibrosis
+├─ └─ ├─ └─ └─ progressive skin fibrosis
+├─ └─ └─ lesion
+├─ └─ └─ └─ bone lesion
+├─ └─ └─ └─ └─ syndesmophyte
+├─ research
+├─ ├─ research methods
+├─ ├─ ├─ study design
+├─ ├─ ├─ ├─ case crossover study
+├─ ├─ ├─ └─ registry
+├─ ├─ ├─ └─ └─ eurofever patient population
+├─ ├─ └─ assessment
+├─ ├─ └─ └─ response criterion
+├─ ├─ research area
+├─ ├─ └─ synovitis outcome research
+├─ └─ study
+├─ └─ ├─ synovitis outcome research
+├─ └─ └─ study design
+├─ └─ └─ ├─ case crossover study
+├─ └─ └─ └─ registry
+├─ └─ └─ └─ └─ eurofever patient population
+├─ guideline
+├─ └─ eular recommendations
+├─ patient population
+├─ ├─ ethnicity
+├─ ├─ ├─ african american
+├─ ├─ ├─ indigenous population
+├─ ├─ ├─ └─ japanese population
+├─ ├─ └─ chinese
+├─ ├─ eurofever patient population
+├─ ├─ age group
+├─ ├─ ├─ adult
+├─ ├─ └─ pediatric
+├─ ├─ └─ └─ child
+├─ └─ first degree relative
+├─ anatomy
+├─ ├─ molecule
+├─ ├─ └─ protein
+├─ ├─ └─ ├─ receptor
+├─ ├─ └─ ├─ ├─ cell adhesion molecule
+├─ ├─ └─ ├─ ├─ └─ integrin
+├─ ├─ └─ ├─ ├─ fc gamma receptor iia
+├─ ├─ └─ ├─ ├─ toll-like receptors
+├─ ├─ └─ ├─ └─ nlrp3
+├─ ├─ └─ ├─ pyrin
+├─ ├─ └─ ├─ protein complex
+├─ ├─ └─ ├─ ├─ antibody
+├─ ├─ └─ ├─ ├─ ├─ monoclonal antibody
+├─ ├─ └─ ├─ ├─ ├─ ├─ anti ku antibody
+├─ ├─ └─ ├─ ├─ ├─ ├─ il-12/23 inhibitor
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ ustekinumab
+├─ ├─ └─ ├─ ├─ ├─ ├─ il-17 inhibitor
+├─ ├─ └─ ├─ ├─ ├─ ├─ ├─ ixekizumab
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ secukinumab
+├─ ├─ └─ ├─ ├─ ├─ ├─ anifrolumab
+├─ ├─ └─ ├─ ├─ ├─ ├─ interleukin-6 receptor antagonist
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ tocilizumab
+├─ ├─ └─ ├─ ├─ ├─ ├─ canakinumab
+├─ ├─ └─ ├─ ├─ ├─ ├─ belimumab
+├─ ├─ └─ ├─ ├─ ├─ ├─ anti tumor necrosis factor
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ tnf-alpha inhibitor
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ ├─ infliximab
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ ├─ certolizumab pegol
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ ├─ golimumab
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ └─ adalimumab
+├─ ├─ └─ ├─ ├─ ├─ ├─ denosumab
+├─ ├─ └─ ├─ ├─ ├─ └─ rituximab
+├─ ├─ └─ ├─ ├─ └─ autoantibody
+├─ ├─ └─ ├─ ├─ └─ ├─ anticardiolipin antibodies
+├─ ├─ └─ ├─ ├─ └─ ├─ myositis associated autoantibodies
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ anti ku antibody
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ anti ro52 autoantibody
+├─ ├─ └─ ├─ ├─ └─ ├─ └─ antisynthetase syndrome
+├─ ├─ └─ ├─ ├─ └─ ├─ anti citrullinated protein antibody
+├─ ├─ └─ ├─ ├─ └─ ├─ anti modified protein antibody
+├─ ├─ └─ ├─ ├─ └─ ├─ anti centromere antibody
+├─ ├─ └─ ├─ ├─ └─ ├─ rheumatoid factor
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ bone biomarker
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ bone morphogenetic protein
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ └─ growth differentiation factor 5
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ └─ bone mineral density
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ immune complex
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ gene
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ mediterranean fever gene
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ human leukocyte antigen
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ ├─ human leukocyte antigen dr
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ ├─ └─ human leukocyte antigen drb1
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ └─ human leukocyte antigen b27
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ fam167a
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ └─ wnt16
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ modified stoke ankylosing spondylitis spine score
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ tenascin c
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ molecular target
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ peptidyl arginine deiminase
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ └─ peptidylarginine deiminase 4
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ ligand
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ ├─ ox40 ligand
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ └─ human leukocyte antigen drb1
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ peroxisome proliferator activated receptor
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ └─ peroxisome proliferator activated receptor gamma
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ acid sensing ion channel 3
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ toll-like receptors
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ activin receptor like kinase 2
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ fc gamma receptor iia
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ mammalian target of rapamycin
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ └─ signal transducer and activator of transcription 4
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ rs2230926
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ interleukin-12
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ protein biomarker
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ indoleamine 2 3 dioxygenase
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ human leukocyte antigen b27
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ sialic acid binding ig like lectin 1
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ s100a protein
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ parathyroid hormone related protein
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ proteasome subunit beta type 8
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ matrix gla protein
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ matrix metalloproteinase
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ peptidylarginine deiminase 4
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ wnt16
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ cytosolic phospholipase a2
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ galectin 9
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ bone morphogenetic protein
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ └─ growth differentiation factor 5
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ anti ro52 autoantibody
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ cluster of differentiation 109
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ └─ glycoprotein non metastatic melanoma protein b
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ systemic lupus erythematosus disease activity index
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ complement activation
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ interleukin-6
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ urate
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ interferon signature
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ b cell receptor repertoire
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ integrin
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ glycan biomarker
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ ├─ n linked variable domain v domain glycan
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ └─ glycosaminoglycan
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ └─ ├─ chondroitin sulfate
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ └─ └─ chondroitin
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ adenosine deaminase 2
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ neutrophil cytosolic factor 1
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ interleukin receptor antagonist protein
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ b cell activating factor
+├─ ├─ └─ ├─ ├─ └─ ├─ └─ neutrophil
+├─ ├─ └─ ├─ ├─ └─ ├─ antinuclear antibody
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ anti ku antibody
+├─ ├─ └─ ├─ ├─ └─ ├─ └─ anti ro52 autoantibody
+├─ ├─ └─ ├─ ├─ └─ ├─ antiphospholipid antibodies
+├─ ├─ └─ ├─ ├─ └─ ├─ anti cyclic citrullinated peptide antibody
+├─ ├─ └─ ├─ ├─ └─ └─ antineutrophil cytoplasmic antibody
+├─ ├─ └─ ├─ ├─ └─ └─ └─ myeloperoxidase anti neutrophil cytoplasmic antibody
+├─ ├─ └─ ├─ └─ proteasome
+├─ ├─ └─ ├─ └─ └─ immunoproteasome
+├─ ├─ └─ ├─ transcription factor
+├─ ├─ └─ ├─ └─ signal transducer and activator of transcription 4
+├─ ├─ └─ ├─ programmed cell death protein 1
+├─ ├─ └─ ├─ enzyme
+├─ ├─ └─ ├─ ├─ adenosine deaminase 2
+├─ ├─ └─ ├─ ├─ protein kinase
+├─ ├─ └─ ├─ ├─ ├─ mammalian target of rapamycin
+├─ ├─ └─ ├─ ├─ ├─ janus kinase
+├─ ├─ └─ ├─ ├─ ├─ └─ tyrosine kinase 2
+├─ ├─ └─ ├─ ├─ ├─ activin receptor like kinase 2
+├─ ├─ └─ ├─ ├─ └─ focal adhesion kinase
+├─ ├─ └─ ├─ └─ cytosolic phospholipase a2
+├─ ├─ └─ ├─ amyloid
+├─ ├─ └─ ├─ cytokine
+├─ ├─ └─ ├─ ├─ adipokine
+├─ ├─ └─ ├─ ├─ growth factor
+├─ ├─ └─ ├─ ├─ ├─ vascular endothelial growth factor
+├─ ├─ └─ ├─ ├─ ├─ nerve growth factor
+├─ ├─ └─ ├─ ├─ ├─ bone morphogenetic protein
+├─ ├─ └─ ├─ ├─ ├─ └─ growth differentiation factor 5
+├─ ├─ └─ ├─ ├─ ├─ transforming growth factor beta
+├─ ├─ └─ ├─ ├─ └─ b cell activating factor
+├─ ├─ └─ ├─ ├─ interleukin
+├─ ├─ └─ ├─ ├─ ├─ interleukin 23
+├─ ├─ └─ ├─ ├─ ├─ interleukin-12
+├─ ├─ └─ ├─ ├─ ├─ interleukin 17
+├─ ├─ └─ ├─ ├─ ├─ interleukin 1
+├─ ├─ └─ ├─ ├─ ├─ └─ interleukin 1 beta
+├─ ├─ └─ ├─ ├─ └─ interleukin-6
+├─ ├─ └─ ├─ ├─ tumor necrosis factors
+├─ ├─ └─ ├─ ├─ ├─ tumor necrosis factor
+├─ ├─ └─ ├─ ├─ ├─ └─ tumor necrosis factor alpha
+├─ ├─ └─ ├─ ├─ └─ b cell activating factor
+├─ ├─ └─ ├─ ├─ interferon
+├─ ├─ └─ ├─ ├─ └─ interferon alpha
+├─ ├─ └─ ├─ └─ interleukin receptor antagonist protein
+├─ ├─ └─ └─ lectin
+├─ ├─ └─ └─ └─ galectin 9
+├─ └─ anatomical entity
+├─ └─ ├─ morphological findings
+├─ └─ ├─ ├─ neutrophil extracellular trap
+├─ └─ ├─ ├─ syndesmophyte
+├─ └─ ├─ ├─ bone morphological finding
+├─ └─ ├─ ├─ ├─ bone erosion
+├─ └─ ├─ ├─ ├─ └─ erosion
+├─ └─ ├─ ├─ ├─ bone marrow oedema
+├─ └─ ├─ ├─ ├─ vertebral deformation
+├─ └─ ├─ ├─ ├─ radiographic damage
+├─ └─ ├─ ├─ └─ vertebral fracture
+├─ └─ ├─ └─ crystal
+├─ └─ ├─ └─ ├─ monosodium urate crystal
+├─ └─ ├─ └─ └─ calcium crystal
+├─ └─ ├─ immune system component
+├─ └─ ├─ └─ immune complex
+├─ └─ └─ anatomical structure
+├─ └─ └─ ├─ synovial structure
+├─ └─ └─ ├─ ├─ synovial tissue
+├─ └─ └─ ├─ ├─ └─ synovium
+├─ └─ └─ ├─ ├─ synovial fluid
+├─ └─ └─ ├─ ├─ knee
+├─ └─ └─ ├─ └─ sacroiliac joint
+├─ └─ └─ ├─ vesicle
+├─ └─ └─ ├─ └─ membrane microvesicle
+├─ └─ └─ ├─ vascular structure
+├─ └─ └─ ├─ └─ microcirculation
+├─ └─ └─ ├─ bone-cartilage unit
+├─ └─ └─ ├─ ├─ joint
+├─ └─ └─ ├─ ├─ ├─ sacroiliac joint
+├─ └─ └─ ├─ ├─ └─ knee
+├─ └─ └─ ├─ └─ osteochondral unit
+├─ └─ └─ ├─ cell
+├─ └─ └─ ├─ ├─ stem cell
+├─ └─ └─ ├─ ├─ └─ mesenchymal stem cell
+├─ └─ └─ ├─ ├─ chondrocyte
+├─ └─ └─ ├─ ├─ └─ superficial articular chondrocyte
+├─ └─ └─ ├─ ├─ immune cell
+├─ └─ └─ ├─ ├─ ├─ dendritic cell
+├─ └─ └─ ├─ ├─ ├─ └─ tolerogenic dendritic cell
+├─ └─ └─ ├─ ├─ ├─ lymphocyte
+├─ └─ └─ ├─ ├─ ├─ ├─ t lymphocyte subset
+├─ └─ └─ ├─ ├─ ├─ ├─ ├─ cluster of differentiation 4 positive t lymphocyte
+├─ └─ └─ ├─ ├─ ├─ ├─ └─ polyfunctional t cell
+├─ └─ └─ ├─ ├─ ├─ ├─ t cells
+├─ └─ └─ ├─ ├─ ├─ ├─ ├─ t helper cells
+├─ └─ └─ ├─ ├─ ├─ ├─ ├─ ├─ t helper 1 cell
+├─ └─ └─ ├─ ├─ ├─ ├─ ├─ ├─ t follicular helper cell
+├─ └─ └─ ├─ ├─ ├─ ├─ ├─ └─ t helper 17 cell
+├─ └─ └─ ├─ ├─ ├─ ├─ └─ regulatory t cell rheumatoid arthritis
+├─ └─ └─ ├─ ├─ ├─ ├─ └─ └─ t regulatory type 1 cell
+├─ └─ └─ ├─ ├─ ├─ └─ b lymphocyte
+├─ └─ └─ ├─ ├─ ├─ └─ └─ cluster of differentiation 19 positive b lymphocyte
+├─ └─ └─ ├─ ├─ └─ myeloid cell
+├─ └─ └─ ├─ ├─ └─ ├─ neutrophil
+├─ └─ └─ ├─ ├─ └─ └─ monocyte
+├─ └─ └─ ├─ ├─ └─ └─ └─ macrophage
+├─ └─ └─ ├─ ├─ └─ └─ └─ ├─ macrophage polarization
+├─ └─ └─ ├─ ├─ └─ └─ └─ └─ osteoclast
+├─ └─ └─ ├─ └─ fibroblast
+├─ └─ └─ ├─ └─ └─ fibroblast like synoviocyte
+├─ └─ └─ ├─ gut barrier
+├─ └─ └─ ├─ germinal center
+├─ └─ └─ ├─ gland
+├─ └─ └─ ├─ └─ labial salivary gland
+├─ └─ └─ └─ tissue
+├─ └─ └─ └─ └─ tissue unit
+├─ └─ └─ └─ └─ ├─ synovium
+├─ └─ └─ └─ └─ ├─ osteochondral unit
+├─ └─ └─ └─ └─ ├─ cartilage
+├─ └─ └─ └─ └─ └─ enthesis
+├─ pathophysiology
+├─ ├─ immune complex
+├─ ├─ pathophysiology concept
+├─ ├─ ├─ bone pathophysiology
+├─ ├─ ├─ ├─ bone loss
+├─ ├─ ├─ └─ bone cell
+├─ ├─ ├─ └─ └─ osteoclast
+├─ ├─ ├─ joint destruction
+├─ ├─ ├─ oxidative stress
+├─ ├─ ├─ molecular mimicry
+├─ ├─ └─ epigenetic priming
+├─ ├─ fibrosis
+├─ ├─ └─ skin fibrosis
+├─ ├─ └─ ├─ dermal fibrosis
+├─ ├─ └─ └─ progressive skin fibrosis
+├─ ├─ complement activation
+├─ ├─ crystal
+├─ ├─ ├─ monosodium urate crystal
+├─ ├─ └─ calcium crystal
+├─ ├─ b cell tolerance
+├─ ├─ inflammation
+├─ ├─ ├─ subclinical inflammation
+├─ ├─ ├─ vascular inflammation
+├─ ├─ ├─ ├─ vasculitis
+├─ ├─ ├─ ├─ ├─ vasculopathic subtype
+├─ ├─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ ├─ ├─ ├─ vasculitic subtype
+├─ ├─ ├─ ├─ ├─ ├─ large vessel vasculitis
+├─ ├─ ├─ ├─ ├─ ├─ ├─ giant cell arteritis
+├─ ├─ ├─ ├─ ├─ ├─ └─ takayasu arteritis
+├─ ├─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ ├─ ├─ ├─ systemic vasculitis
+├─ ├─ ├─ ├─ ├─ ├─ hyperglobulinemic purpura
+├─ ├─ ├─ ├─ ├─ ├─ takayasu arteritis
+├─ ├─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ ├─ ├─ └─ beh et disease
+├─ ├─ ├─ ├─ vascular remodeling
+├─ ├─ ├─ └─ thromboinflammation
+├─ ├─ ├─ tendon inflammation
+├─ ├─ └─ uveitis
+├─ ├─ └─ └─ anterior uveitis
+├─ ├─ autoinflammation
+├─ ├─ ├─ gout
+├─ ├─ ├─ ├─ inpatient gout
+├─ ├─ ├─ └─ gout flare
+├─ ├─ └─ inherited periodic fever disease
+├─ ├─ └─ ├─ familial mediterranean fever
+├─ ├─ └─ ├─ periodic fever aphthous stomatitis pharyngitis and adenitis syndrome
+├─ ├─ └─ ├─ a20 haploinsufficiency
+├─ ├─ └─ ├─ cryopyrin associated periodic syndrome
+├─ ├─ └─ ├─ └─ familial cold autoinflammatory syndrome type 2
+├─ ├─ └─ ├─ mevalonate kinase deficiency
+├─ ├─ └─ └─ tnf receptor associated periodic syndrome
+├─ ├─ b cell receptor repertoire
+├─ ├─ epstein barr virus
+├─ └─ nuclear factor kappa light chain enhancer of activated b cells regulation
+├─ subspecialty
+├─ ├─ synovitis outcome research
+├─ └─ pediatric rheumatology
+├─ disease
+├─ ├─ purpura
+├─ ├─ └─ hyperglobulinemic purpura
+├─ ├─ connective tissue diseases
+├─ ├─ ├─ adult-onset still's disease
+├─ ├─ ├─ immune complex diseases
+├─ ├─ ├─ └─ rheumatoid arthritis
+├─ ├─ ├─ └─ ├─ pre-rheumatoid arthritis
+├─ ├─ ├─ └─ └─ early rheumatoid arthritis
+├─ ├─ ├─ inflammatory skeletal muscle disease
+├─ ├─ ├─ └─ idiopathic inflammatory myopathies
+├─ ├─ ├─ └─ ├─ juvenile idiopathic inflammatory myopathy
+├─ ├─ ├─ └─ ├─ antisynthetase syndrome
+├─ ├─ ├─ └─ ├─ necrotizing myopathy
+├─ ├─ ├─ └─ ├─ └─ immune mediated necrotising myopathy
+├─ ├─ ├─ └─ └─ dermatomyositis
+├─ ├─ ├─ vasculopathic subtype
+├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ ├─ mixed connective tissue disease
+├─ ├─ ├─ bone marrow oedema
+├─ ├─ ├─ interstitial lung disease
+├─ ├─ ├─ tendinopathy
+├─ ├─ ├─ └─ tendon inflammation
+├─ ├─ ├─ vasculitic subtype
+├─ ├─ ├─ ├─ large vessel vasculitis
+├─ ├─ ├─ ├─ ├─ giant cell arteritis
+├─ ├─ ├─ ├─ └─ takayasu arteritis
+├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ └─ undifferentiated connective tissue disease
+├─ ├─ post-infectious disease
+├─ ├─ └─ rheumatic fever
+├─ ├─ vertebral fracture
+├─ ├─ infection
+├─ ├─ └─ bacterial infection
+├─ ├─ └─ └─ streptococcal infection
+├─ ├─ developmental delay
+├─ ├─ └─ developmental delay sifd
+├─ ├─ primary myocardial disease in scleroderma
+├─ ├─ amyloidosis
+├─ ├─ └─ amyloid a amyloidosis
+├─ ├─ inflammatory disease
+├─ ├─ ├─ scleroderma
+├─ ├─ ├─ └─ systemic sclerosis
+├─ ├─ ├─ └─ ├─ diffuse cutaneous systemic sclerosis
+├─ ├─ ├─ └─ └─ scleromyositis
+├─ ├─ ├─ enthesitis
+├─ ├─ ├─ lupus
+├─ ├─ ├─ ├─ neuropsychiatric lupus
+├─ ├─ ├─ ├─ neonatal lupus
+├─ ├─ ├─ ├─ lupus nephritis
+├─ ├─ ├─ ├─ systemic lupus erythematosus
+├─ ├─ ├─ ├─ └─ childhood onset systemic lupus erythematosus
+├─ ├─ ├─ ├─ drug induced lupus
+├─ ├─ ├─ └─ imported lupus erythematosus
+├─ ├─ ├─ tendon inflammation
+├─ ├─ ├─ mixed connective tissue disease
+├─ ├─ ├─ spondylitis
+├─ ├─ ├─ └─ ankylosing spondylitis
+├─ ├─ ├─ auto-inflammatory diseases
+├─ ├─ ├─ ├─ vasculitis
+├─ ├─ ├─ ├─ ├─ vasculopathic subtype
+├─ ├─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ ├─ ├─ ├─ vasculitic subtype
+├─ ├─ ├─ ├─ ├─ ├─ large vessel vasculitis
+├─ ├─ ├─ ├─ ├─ ├─ ├─ giant cell arteritis
+├─ ├─ ├─ ├─ ├─ ├─ └─ takayasu arteritis
+├─ ├─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ ├─ ├─ ├─ systemic vasculitis
+├─ ├─ ├─ ├─ ├─ ├─ hyperglobulinemic purpura
+├─ ├─ ├─ ├─ ├─ ├─ takayasu arteritis
+├─ ├─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ ├─ ├─ └─ beh et disease
+├─ ├─ ├─ ├─ periodic fever syndromes
+├─ ├─ ├─ ├─ └─ inherited periodic fever disease
+├─ ├─ ├─ ├─ └─ ├─ familial mediterranean fever
+├─ ├─ ├─ ├─ └─ ├─ periodic fever aphthous stomatitis pharyngitis and adenitis syndrome
+├─ ├─ ├─ ├─ └─ ├─ a20 haploinsufficiency
+├─ ├─ ├─ ├─ └─ ├─ cryopyrin associated periodic syndrome
+├─ ├─ ├─ ├─ └─ ├─ └─ familial cold autoinflammatory syndrome type 2
+├─ ├─ ├─ ├─ └─ ├─ mevalonate kinase deficiency
+├─ ├─ ├─ ├─ └─ └─ tnf receptor associated periodic syndrome
+├─ ├─ ├─ ├─ still s disease
+├─ ├─ ├─ ├─ └─ adult-onset still's disease
+├─ ├─ ├─ ├─ imported lupus erythematosus
+├─ ├─ ├─ └─ sjogren's syndrome
+├─ ├─ ├─ spondyloarthropathy
+├─ ├─ ├─ ├─ spondyloarthritis
+├─ ├─ ├─ ├─ ├─ psoriatic arthritis
+├─ ├─ ├─ ├─ ├─ ankylosing spondylitis
+├─ ├─ ├─ ├─ └─ reactive arthritis
+├─ ├─ ├─ └─ seronegative spondyloarthropathy
+├─ ├─ ├─ └─ ├─ axial spondyloarthritis
+├─ ├─ ├─ └─ ├─ reactive arthritis
+├─ ├─ ├─ └─ ├─ ankylosing spondylitis
+├─ ├─ ├─ └─ └─ psoriatic arthritis
+├─ ├─ ├─ inflammatory eye disease
+├─ ├─ ├─ └─ uveitis
+├─ ├─ ├─ └─ └─ anterior uveitis
+├─ ├─ ├─ chondrocalcinosis
+├─ ├─ ├─ granulomatous disease
+├─ ├─ ├─ └─ sarcoidosis
+├─ ├─ ├─ polymyalgia rheumatica
+├─ ├─ ├─ idiopathic arthritis
+├─ ├─ ├─ └─ juvenile idiopathic arthritis
+├─ ├─ ├─ └─ └─ systemic juvenile idiopathic arthritis
+├─ ├─ ├─ synovitis
+├─ ├─ ├─ bursitis
+├─ ├─ ├─ autoinflammation
+├─ ├─ ├─ ├─ gout
+├─ ├─ ├─ ├─ ├─ inpatient gout
+├─ ├─ ├─ ├─ └─ gout flare
+├─ ├─ ├─ └─ inherited periodic fever disease
+├─ ├─ ├─ └─ ├─ familial mediterranean fever
+├─ ├─ ├─ └─ ├─ periodic fever aphthous stomatitis pharyngitis and adenitis syndrome
+├─ ├─ ├─ └─ ├─ a20 haploinsufficiency
+├─ ├─ ├─ └─ ├─ cryopyrin associated periodic syndrome
+├─ ├─ ├─ └─ ├─ └─ familial cold autoinflammatory syndrome type 2
+├─ ├─ ├─ └─ ├─ mevalonate kinase deficiency
+├─ ├─ ├─ └─ └─ tnf receptor associated periodic syndrome
+├─ ├─ ├─ autoimmune diseases
+├─ ├─ ├─ ├─ rheumatoid arthritis
+├─ ├─ ├─ ├─ ├─ pre-rheumatoid arthritis
+├─ ├─ ├─ ├─ └─ early rheumatoid arthritis
+├─ ├─ ├─ ├─ polyautoimmune disease associated with ankrd11 deficiency
+├─ ├─ ├─ ├─ inflammatory myopathy
+├─ ├─ ├─ ├─ └─ myositis
+├─ ├─ ├─ ├─ └─ ├─ idiopathic inflammatory myopathies
+├─ ├─ ├─ ├─ └─ ├─ ├─ juvenile idiopathic inflammatory myopathy
+├─ ├─ ├─ ├─ └─ ├─ ├─ antisynthetase syndrome
+├─ ├─ ├─ ├─ └─ ├─ ├─ necrotizing myopathy
+├─ ├─ ├─ ├─ └─ ├─ ├─ └─ immune mediated necrotising myopathy
+├─ ├─ ├─ ├─ └─ ├─ └─ dermatomyositis
+├─ ├─ ├─ ├─ └─ ├─ scleromyositis
+├─ ├─ ├─ ├─ └─ ├─ overlap myositis
+├─ ├─ ├─ ├─ └─ ├─ inclusion body myositis
+├─ ├─ ├─ ├─ └─ ├─ polymyositis
+├─ ├─ ├─ ├─ └─ └─ experimental myositis
+├─ ├─ ├─ ├─ relapsing polychondritis
+├─ ├─ ├─ ├─ immunoglobulin g4 related disease
+├─ ├─ ├─ ├─ systemic sclerosis
+├─ ├─ ├─ ├─ ├─ diffuse cutaneous systemic sclerosis
+├─ ├─ ├─ ├─ └─ scleromyositis
+├─ ├─ ├─ ├─ lupus erythematosus
+├─ ├─ ├─ ├─ └─ imported lupus erythematosus
+├─ ├─ ├─ ├─ monogenic autoimmunity
+├─ ├─ ├─ ├─ antiphospholipid syndrome
+├─ ├─ ├─ ├─ ├─ obstetric antiphospholipid syndrome
+├─ ├─ ├─ ├─ └─ catastrophic antiphospholipid syndrome
+├─ ├─ ├─ ├─ takayasu arteritis
+├─ ├─ ├─ └─ sjogren's syndrome
+├─ ├─ ├─ inflammatory arthritis
+├─ ├─ ├─ ├─ infectious arthritis
+├─ ├─ ├─ ├─ └─ septic arthritis
+├─ ├─ ├─ ├─ └─ └─ native joint septic arthritis
+├─ ├─ ├─ ├─ gout
+├─ ├─ ├─ ├─ ├─ inpatient gout
+├─ ├─ ├─ ├─ └─ gout flare
+├─ ├─ ├─ ├─ rheumatoid arthritis
+├─ ├─ ├─ ├─ ├─ pre-rheumatoid arthritis
+├─ ├─ ├─ ├─ └─ early rheumatoid arthritis
+├─ ├─ ├─ ├─ spondyloarthritis
+├─ ├─ ├─ ├─ ├─ psoriatic arthritis
+├─ ├─ ├─ ├─ ├─ ankylosing spondylitis
+├─ ├─ ├─ ├─ └─ reactive arthritis
+├─ ├─ ├─ └─ juvenile idiopathic arthritis
+├─ ├─ ├─ └─ └─ systemic juvenile idiopathic arthritis
+├─ ├─ ├─ macrophage activation syndrome
+├─ ├─ └─ immune complex diseases
+├─ ├─ └─ └─ rheumatoid arthritis
+├─ ├─ └─ └─ ├─ pre-rheumatoid arthritis
+├─ ├─ └─ └─ └─ early rheumatoid arthritis
+├─ ├─ musculoskeletal disease
+├─ ├─ ├─ arthropathy
+├─ ├─ ├─ ├─ arthritis
+├─ ├─ ├─ ├─ ├─ idiopathic arthritis
+├─ ├─ ├─ ├─ ├─ └─ juvenile idiopathic arthritis
+├─ ├─ ├─ ├─ ├─ └─ └─ systemic juvenile idiopathic arthritis
+├─ ├─ ├─ ├─ ├─ inflammatory arthritis
+├─ ├─ ├─ ├─ ├─ ├─ infectious arthritis
+├─ ├─ ├─ ├─ ├─ ├─ └─ septic arthritis
+├─ ├─ ├─ ├─ ├─ ├─ └─ └─ native joint septic arthritis
+├─ ├─ ├─ ├─ ├─ ├─ gout
+├─ ├─ ├─ ├─ ├─ ├─ ├─ inpatient gout
+├─ ├─ ├─ ├─ ├─ ├─ └─ gout flare
+├─ ├─ ├─ ├─ ├─ ├─ rheumatoid arthritis
+├─ ├─ ├─ ├─ ├─ ├─ ├─ pre-rheumatoid arthritis
+├─ ├─ ├─ ├─ ├─ ├─ └─ early rheumatoid arthritis
+├─ ├─ ├─ ├─ ├─ ├─ spondyloarthritis
+├─ ├─ ├─ ├─ ├─ ├─ ├─ psoriatic arthritis
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ankylosing spondylitis
+├─ ├─ ├─ ├─ ├─ ├─ └─ reactive arthritis
+├─ ├─ ├─ ├─ ├─ └─ juvenile idiopathic arthritis
+├─ ├─ ├─ ├─ ├─ └─ └─ systemic juvenile idiopathic arthritis
+├─ ├─ ├─ ├─ ├─ experimental arthritis
+├─ ├─ ├─ ├─ ├─ seronegative arthritis
+├─ ├─ ├─ ├─ ├─ └─ spondyloarthritis
+├─ ├─ ├─ ├─ ├─ └─ ├─ psoriatic arthritis
+├─ ├─ ├─ ├─ ├─ └─ ├─ ankylosing spondylitis
+├─ ├─ ├─ ├─ ├─ └─ └─ reactive arthritis
+├─ ├─ ├─ ├─ ├─ chondrocalcinosis
+├─ ├─ ├─ ├─ ├─ spondylitis
+├─ ├─ ├─ ├─ ├─ └─ ankylosing spondylitis
+├─ ├─ ├─ ├─ ├─ spondyloarthropathy
+├─ ├─ ├─ ├─ ├─ ├─ spondyloarthritis
+├─ ├─ ├─ ├─ ├─ ├─ ├─ psoriatic arthritis
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ankylosing spondylitis
+├─ ├─ ├─ ├─ ├─ ├─ └─ reactive arthritis
+├─ ├─ ├─ ├─ ├─ └─ seronegative spondyloarthropathy
+├─ ├─ ├─ ├─ ├─ └─ ├─ axial spondyloarthritis
+├─ ├─ ├─ ├─ ├─ └─ ├─ reactive arthritis
+├─ ├─ ├─ ├─ ├─ └─ ├─ ankylosing spondylitis
+├─ ├─ ├─ ├─ ├─ └─ └─ psoriatic arthritis
+├─ ├─ ├─ ├─ ├─ systemic arthritis
+├─ ├─ ├─ ├─ ├─ ├─ rheumatoid arthritis
+├─ ├─ ├─ ├─ ├─ ├─ ├─ pre-rheumatoid arthritis
+├─ ├─ ├─ ├─ ├─ ├─ └─ early rheumatoid arthritis
+├─ ├─ ├─ ├─ ├─ └─ psoriatic arthritis
+├─ ├─ ├─ ├─ └─ osteoarthritis
+├─ ├─ ├─ ├─ └─ ├─ knee osteoarthritis
+├─ ├─ ├─ ├─ └─ ├─ hip osteoarthritis
+├─ ├─ ├─ ├─ └─ └─ hand osteoarthritis
+├─ ├─ ├─ ├─ crystal arthropathies
+├─ ├─ ├─ ├─ ├─ gout
+├─ ├─ ├─ ├─ ├─ ├─ inpatient gout
+├─ ├─ ├─ ├─ ├─ └─ gout flare
+├─ ├─ ├─ ├─ └─ chondrocalcinosis
+├─ ├─ ├─ └─ synovitis
+├─ ├─ ├─ bone disease
+├─ ├─ ├─ ├─ crystal arthropathies
+├─ ├─ ├─ ├─ ├─ gout
+├─ ├─ ├─ ├─ ├─ ├─ inpatient gout
+├─ ├─ ├─ ├─ ├─ └─ gout flare
+├─ ├─ ├─ ├─ └─ chondrocalcinosis
+├─ ├─ ├─ └─ osteoporosis
+├─ ├─ ├─ tendinopathy
+├─ ├─ ├─ └─ tendon inflammation
+├─ ├─ ├─ myopathy
+├─ ├─ ├─ ├─ inflammatory skeletal muscle disease
+├─ ├─ ├─ ├─ └─ idiopathic inflammatory myopathies
+├─ ├─ ├─ ├─ └─ ├─ juvenile idiopathic inflammatory myopathy
+├─ ├─ ├─ ├─ └─ ├─ antisynthetase syndrome
+├─ ├─ ├─ ├─ └─ ├─ necrotizing myopathy
+├─ ├─ ├─ ├─ └─ ├─ └─ immune mediated necrotising myopathy
+├─ ├─ ├─ ├─ └─ └─ dermatomyositis
+├─ ├─ ├─ └─ inflammatory myopathy
+├─ ├─ ├─ └─ └─ myositis
+├─ ├─ ├─ └─ └─ ├─ idiopathic inflammatory myopathies
+├─ ├─ ├─ └─ └─ ├─ ├─ juvenile idiopathic inflammatory myopathy
+├─ ├─ ├─ └─ └─ ├─ ├─ antisynthetase syndrome
+├─ ├─ ├─ └─ └─ ├─ ├─ necrotizing myopathy
+├─ ├─ ├─ └─ └─ ├─ ├─ └─ immune mediated necrotising myopathy
+├─ ├─ ├─ └─ └─ ├─ └─ dermatomyositis
+├─ ├─ ├─ └─ └─ ├─ scleromyositis
+├─ ├─ ├─ └─ └─ ├─ overlap myositis
+├─ ├─ ├─ └─ └─ ├─ inclusion body myositis
+├─ ├─ ├─ └─ └─ ├─ polymyositis
+├─ ├─ ├─ └─ └─ └─ experimental myositis
+├─ ├─ └─ rheumatic diseases
+├─ ├─ └─ ├─ rheumatic fever
+├─ ├─ └─ ├─ auto-inflammatory diseases
+├─ ├─ └─ ├─ ├─ vasculitis
+├─ ├─ └─ ├─ ├─ ├─ vasculopathic subtype
+├─ ├─ └─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ └─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ └─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ └─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ └─ ├─ ├─ ├─ vasculitic subtype
+├─ ├─ └─ ├─ ├─ ├─ ├─ large vessel vasculitis
+├─ ├─ └─ ├─ ├─ ├─ ├─ ├─ giant cell arteritis
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ takayasu arteritis
+├─ ├─ └─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ └─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ └─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ └─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ └─ ├─ ├─ ├─ systemic vasculitis
+├─ ├─ └─ ├─ ├─ ├─ ├─ hyperglobulinemic purpura
+├─ ├─ └─ ├─ ├─ ├─ ├─ takayasu arteritis
+├─ ├─ └─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ └─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ └─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ └─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ └─ ├─ ├─ └─ beh et disease
+├─ ├─ └─ ├─ ├─ periodic fever syndromes
+├─ ├─ └─ ├─ ├─ └─ inherited periodic fever disease
+├─ ├─ └─ ├─ ├─ └─ ├─ familial mediterranean fever
+├─ ├─ └─ ├─ ├─ └─ ├─ periodic fever aphthous stomatitis pharyngitis and adenitis syndrome
+├─ ├─ └─ ├─ ├─ └─ ├─ a20 haploinsufficiency
+├─ ├─ └─ ├─ ├─ └─ ├─ cryopyrin associated periodic syndrome
+├─ ├─ └─ ├─ ├─ └─ ├─ └─ familial cold autoinflammatory syndrome type 2
+├─ ├─ └─ ├─ ├─ └─ ├─ mevalonate kinase deficiency
+├─ ├─ └─ ├─ ├─ └─ └─ tnf receptor associated periodic syndrome
+├─ ├─ └─ ├─ ├─ still s disease
+├─ ├─ └─ ├─ ├─ └─ adult-onset still's disease
+├─ ├─ └─ ├─ ├─ imported lupus erythematosus
+├─ ├─ └─ ├─ └─ sjogren's syndrome
+├─ ├─ └─ ├─ palindromic rheumatism
+├─ ├─ └─ ├─ polymyalgia rheumatica
+├─ ├─ └─ ├─ chronic rheumatic disease
+├─ ├─ └─ ├─ ├─ chondrocalcinosis
+├─ ├─ └─ ├─ ├─ immune mediated necrotising myopathy
+├─ ├─ └─ ├─ ├─ gout
+├─ ├─ └─ ├─ ├─ ├─ inpatient gout
+├─ ├─ └─ ├─ ├─ └─ gout flare
+├─ ├─ └─ ├─ └─ rheumatoid arthritis
+├─ ├─ └─ ├─ └─ ├─ pre-rheumatoid arthritis
+├─ ├─ └─ ├─ └─ └─ early rheumatoid arthritis
+├─ ├─ └─ ├─ fibromyalgia
+├─ ├─ └─ ├─ autoimmune diseases
+├─ ├─ └─ ├─ ├─ rheumatoid arthritis
+├─ ├─ └─ ├─ ├─ ├─ pre-rheumatoid arthritis
+├─ ├─ └─ ├─ ├─ └─ early rheumatoid arthritis
+├─ ├─ └─ ├─ ├─ polyautoimmune disease associated with ankrd11 deficiency
+├─ ├─ └─ ├─ ├─ inflammatory myopathy
+├─ ├─ └─ ├─ ├─ └─ myositis
+├─ ├─ └─ ├─ ├─ └─ ├─ idiopathic inflammatory myopathies
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ juvenile idiopathic inflammatory myopathy
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ antisynthetase syndrome
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ necrotizing myopathy
+├─ ├─ └─ ├─ ├─ └─ ├─ ├─ └─ immune mediated necrotising myopathy
+├─ ├─ └─ ├─ ├─ └─ ├─ └─ dermatomyositis
+├─ ├─ └─ ├─ ├─ └─ ├─ scleromyositis
+├─ ├─ └─ ├─ ├─ └─ ├─ overlap myositis
+├─ ├─ └─ ├─ ├─ └─ ├─ inclusion body myositis
+├─ ├─ └─ ├─ ├─ └─ ├─ polymyositis
+├─ ├─ └─ ├─ ├─ └─ └─ experimental myositis
+├─ ├─ └─ ├─ ├─ relapsing polychondritis
+├─ ├─ └─ ├─ ├─ immunoglobulin g4 related disease
+├─ ├─ └─ ├─ ├─ systemic sclerosis
+├─ ├─ └─ ├─ ├─ ├─ diffuse cutaneous systemic sclerosis
+├─ ├─ └─ ├─ ├─ └─ scleromyositis
+├─ ├─ └─ ├─ ├─ lupus erythematosus
+├─ ├─ └─ ├─ ├─ └─ imported lupus erythematosus
+├─ ├─ └─ ├─ ├─ monogenic autoimmunity
+├─ ├─ └─ ├─ ├─ antiphospholipid syndrome
+├─ ├─ └─ ├─ ├─ ├─ obstetric antiphospholipid syndrome
+├─ ├─ └─ ├─ ├─ └─ catastrophic antiphospholipid syndrome
+├─ ├─ └─ ├─ ├─ takayasu arteritis
+├─ ├─ └─ ├─ └─ sjogren's syndrome
+├─ ├─ └─ └─ rheumatic and musculoskeletal diseases
+├─ ├─ └─ └─ ├─ gout
+├─ ├─ └─ └─ ├─ ├─ inpatient gout
+├─ ├─ └─ └─ ├─ └─ gout flare
+├─ ├─ └─ └─ ├─ rheumatoid arthritis
+├─ ├─ └─ └─ ├─ ├─ pre-rheumatoid arthritis
+├─ ├─ └─ └─ ├─ └─ early rheumatoid arthritis
+├─ ├─ └─ └─ ├─ chondrocalcinosis
+├─ ├─ └─ └─ └─ immune mediated necrotising myopathy
+├─ ├─ inflammation
+├─ ├─ ├─ subclinical inflammation
+├─ ├─ ├─ vascular inflammation
+├─ ├─ ├─ ├─ vasculitis
+├─ ├─ ├─ ├─ ├─ vasculopathic subtype
+├─ ├─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ ├─ ├─ ├─ vasculitic subtype
+├─ ├─ ├─ ├─ ├─ ├─ large vessel vasculitis
+├─ ├─ ├─ ├─ ├─ ├─ ├─ giant cell arteritis
+├─ ├─ ├─ ├─ ├─ ├─ └─ takayasu arteritis
+├─ ├─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ ├─ ├─ ├─ systemic vasculitis
+├─ ├─ ├─ ├─ ├─ ├─ hyperglobulinemic purpura
+├─ ├─ ├─ ├─ ├─ ├─ takayasu arteritis
+├─ ├─ ├─ ├─ ├─ └─ anti-neutrophil cytoplasmic antibody-associated vasculitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ eosinophilic granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ ├─ granulomatosis with polyangiitis
+├─ ├─ ├─ ├─ ├─ └─ └─ microscopic polyangiitis
+├─ ├─ ├─ ├─ └─ beh et disease
+├─ ├─ ├─ ├─ vascular remodeling
+├─ ├─ ├─ └─ thromboinflammation
+├─ ├─ ├─ tendon inflammation
+├─ ├─ └─ uveitis
+├─ ├─ └─ └─ anterior uveitis
+├─ └─ metabolic disorder
+├─ └─ ├─ hyperuricemia
+├─ └─ ├─ ├─ gout
+├─ └─ ├─ ├─ ├─ inpatient gout
+├─ └─ ├─ ├─ └─ gout flare
+├─ └─ ├─ └─ asymptomatic hyperuricemia
+├─ └─ └─ obesity
+├─ treatment
+├─ ├─ procedure
+├─ ├─ ├─ bone treatment
+├─ ├─ ├─ └─ total hip replacement
+├─ ├─ └─ diagnostic procedure
+├─ ├─ └─ ├─ tissue sampling
+├─ ├─ └─ ├─ └─ biopsy
+├─ ├─ └─ ├─ └─ └─ salivary gland biopsy
+├─ ├─ └─ └─ imaging modality
+├─ ├─ └─ └─ ├─ x ray
+├─ ├─ └─ └─ ├─ bone density measurement
+├─ ├─ └─ └─ ├─ └─ dual-energy x-ray absorptiometry
+├─ ├─ └─ └─ ├─ ultrasound
+├─ ├─ └─ └─ ├─ ├─ musculoskeletal ultrasound
+├─ ├─ └─ └─ ├─ └─ power doppler ultrasound
+├─ ├─ └─ └─ ├─ radiography
+├─ ├─ └─ └─ ├─ dual-energy computed tomography
+├─ ├─ └─ └─ └─ nuclear imaging
+├─ ├─ tolerance
+├─ ├─ └─ immune tolerance
+├─ ├─ └─ └─ b cell tolerance
+├─ ├─ therapy
+├─ ├─ ├─ rehabilitation
+├─ ├─ ├─ └─ physical therapy modalities
+├─ ├─ ├─ physical therapy
+├─ ├─ ├─ └─ physical therapy modalities
+├─ ├─ ├─ tapering therapy
+├─ ├─ ├─ └─ tapering
+├─ ├─ ├─ bone treatment
+├─ ├─ ├─ └─ total hip replacement
+├─ ├─ └─ occupational therapy
+├─ ├─ treatment strategy
+├─ ├─ ├─ rehabilitation
+├─ ├─ ├─ └─ physical therapy modalities
+├─ ├─ ├─ pharmacologic treatment
+├─ ├─ ├─ ├─ induction therapy
+├─ ├─ ├─ ├─ biologic
+├─ ├─ ├─ ├─ ├─ biologic disease modifying osteoarthritis drug
+├─ ├─ ├─ ├─ └─ anti tumor necrosis factor
+├─ ├─ ├─ ├─ └─ └─ tnf-alpha inhibitor
+├─ ├─ ├─ ├─ └─ └─ ├─ infliximab
+├─ ├─ ├─ ├─ └─ └─ ├─ certolizumab pegol
+├─ ├─ ├─ ├─ └─ └─ ├─ golimumab
+├─ ├─ ├─ ├─ └─ └─ └─ adalimumab
+├─ ├─ ├─ ├─ targeted therapy
+├─ ├─ ├─ ├─ ├─ janus kinase inhibitor
+├─ ├─ ├─ ├─ ├─ preventative vasodilator therapy
+├─ ├─ ├─ ├─ ├─ biologic therapy
+├─ ├─ ├─ ├─ ├─ ├─ abatacept
+├─ ├─ ├─ ├─ ├─ ├─ biologic disease modifying osteoarthritis drug
+├─ ├─ ├─ ├─ ├─ └─ biologic dmard
+├─ ├─ ├─ ├─ ├─ └─ └─ monoclonal antibody
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ anti ku antibody
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ il-12/23 inhibitor
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ └─ ustekinumab
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ il-17 inhibitor
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ ├─ ixekizumab
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ └─ secukinumab
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ anifrolumab
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ interleukin-6 receptor antagonist
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ └─ tocilizumab
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ canakinumab
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ belimumab
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ anti tumor necrosis factor
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ └─ tnf-alpha inhibitor
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ └─ ├─ infliximab
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ └─ ├─ certolizumab pegol
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ └─ ├─ golimumab
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ └─ └─ adalimumab
+├─ ├─ ├─ ├─ ├─ └─ └─ ├─ denosumab
+├─ ├─ ├─ ├─ ├─ └─ └─ └─ rituximab
+├─ ├─ ├─ ├─ └─ small molecule
+├─ ├─ ├─ ├─ └─ ├─ lesinurad
+├─ ├─ ├─ ├─ └─ ├─ allopurinol
+├─ ├─ ├─ ├─ └─ ├─ anti-inflammatory agents non-steroidal
+├─ ├─ ├─ ├─ └─ ├─ └─ naproxen
+├─ ├─ ├─ ├─ └─ ├─ mycophenolate
+├─ ├─ ├─ ├─ └─ ├─ leflunomide
+├─ ├─ ├─ ├─ └─ ├─ methotrexate
+├─ ├─ ├─ ├─ └─ ├─ hydroxychloroquine
+├─ ├─ ├─ ├─ └─ └─ metabolite
+├─ ├─ ├─ ├─ └─ └─ ├─ glucosamine
+├─ ├─ ├─ ├─ └─ └─ ├─ rapamycin
+├─ ├─ ├─ ├─ └─ └─ ├─ urate
+├─ ├─ ├─ ├─ └─ └─ └─ glucocorticoids
+├─ ├─ ├─ ├─ └─ └─ └─ └─ intra-articular glucocorticoid
+├─ ├─ ├─ ├─ immunosuppressive therapy
+├─ ├─ ├─ ├─ └─ immunosuppressive agent
+├─ ├─ ├─ ├─ └─ ├─ rapamycin
+├─ ├─ ├─ ├─ └─ ├─ corticosteroid
+├─ ├─ ├─ ├─ └─ ├─ └─ glucocorticoids
+├─ ├─ ├─ ├─ └─ ├─ └─ └─ intra-articular glucocorticoid
+├─ ├─ ├─ ├─ └─ ├─ interleukin inhibitor
+├─ ├─ ├─ ├─ └─ ├─ biologic dmard
+├─ ├─ ├─ ├─ └─ ├─ └─ monoclonal antibody
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ anti ku antibody
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ il-12/23 inhibitor
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ └─ ustekinumab
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ il-17 inhibitor
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ ├─ ixekizumab
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ └─ secukinumab
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ anifrolumab
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ interleukin-6 receptor antagonist
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ └─ tocilizumab
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ canakinumab
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ belimumab
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ anti tumor necrosis factor
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ └─ tnf-alpha inhibitor
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ └─ ├─ infliximab
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ └─ ├─ certolizumab pegol
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ └─ ├─ golimumab
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ └─ └─ adalimumab
+├─ ├─ ├─ ├─ └─ ├─ └─ ├─ denosumab
+├─ ├─ ├─ ├─ └─ ├─ └─ └─ rituximab
+├─ ├─ ├─ ├─ └─ ├─ cyclophosphamide
+├─ ├─ ├─ ├─ └─ └─ csdmard
+├─ ├─ ├─ ├─ └─ └─ ├─ leflunomide
+├─ ├─ ├─ ├─ └─ └─ ├─ methotrexate
+├─ ├─ ├─ ├─ └─ └─ ├─ hydroxychloroquine
+├─ ├─ ├─ ├─ └─ └─ ├─ sulfasalazine
+├─ ├─ ├─ ├─ └─ └─ ├─ azathioprine
+├─ ├─ ├─ ├─ └─ └─ └─ mycophenolate
+├─ ├─ ├─ ├─ tapering therapy
+├─ ├─ ├─ ├─ └─ tapering
+├─ ├─ ├─ └─ urate lowering therapy
+├─ ├─ ├─ total knee replacement
+├─ ├─ ├─ csdmards
+├─ ├─ └─ treat-to-target
+├─ ├─ supplement
+├─ ├─ ├─ fish oil
+├─ ├─ └─ glucosamine
+├─ └─ pharmacologic agent
+├─ └─ ├─ fish oil
+├─ └─ ├─ small molecule
+├─ └─ ├─ ├─ lesinurad
+├─ └─ ├─ ├─ allopurinol
+├─ └─ ├─ ├─ anti-inflammatory agents non-steroidal
+├─ └─ ├─ ├─ └─ naproxen
+├─ └─ ├─ ├─ mycophenolate
+├─ └─ ├─ ├─ leflunomide
+├─ └─ ├─ ├─ methotrexate
+├─ └─ ├─ ├─ hydroxychloroquine
+├─ └─ ├─ └─ metabolite
+├─ └─ ├─ └─ ├─ glucosamine
+├─ └─ ├─ └─ ├─ rapamycin
+├─ └─ ├─ └─ ├─ urate
+├─ └─ ├─ └─ └─ glucocorticoids
+├─ └─ ├─ └─ └─ └─ intra-articular glucocorticoid
+├─ └─ ├─ inhibitor
+├─ └─ ├─ ├─ lesinurad
+├─ └─ ├─ ├─ anti-inflammatory agents
+├─ └─ ├─ ├─ ├─ small-molecule anti-inflammatory agent
+├─ └─ ├─ ├─ ├─ ├─ rapamycin
+├─ └─ ├─ ├─ ├─ ├─ corticosteroid
+├─ └─ ├─ ├─ ├─ ├─ └─ glucocorticoids
+├─ └─ ├─ ├─ ├─ ├─ └─ └─ intra-articular glucocorticoid
+├─ └─ ├─ ├─ ├─ ├─ phosphodiesterase 4 inhibitor
+├─ └─ ├─ ├─ ├─ ├─ leflunomide
+├─ └─ ├─ ├─ ├─ ├─ methotrexate
+├─ └─ ├─ ├─ ├─ ├─ anti-inflammatory agents non-steroidal
+├─ └─ ├─ ├─ ├─ ├─ └─ naproxen
+├─ └─ ├─ ├─ ├─ ├─ hydroxychloroquine
+├─ └─ ├─ ├─ ├─ └─ colchicine
+├─ └─ ├─ ├─ └─ anti tumor necrosis factor
+├─ └─ ├─ ├─ └─ └─ tnf-alpha inhibitor
+├─ └─ ├─ ├─ └─ └─ ├─ infliximab
+├─ └─ ├─ ├─ └─ └─ ├─ certolizumab pegol
+├─ └─ ├─ ├─ └─ └─ ├─ golimumab
+├─ └─ ├─ ├─ └─ └─ └─ adalimumab
+├─ └─ ├─ └─ immunosuppressive agent
+├─ └─ ├─ └─ ├─ rapamycin
+├─ └─ ├─ └─ ├─ corticosteroid
+├─ └─ ├─ └─ ├─ └─ glucocorticoids
+├─ └─ ├─ └─ ├─ └─ └─ intra-articular glucocorticoid
+├─ └─ ├─ └─ ├─ interleukin inhibitor
+├─ └─ ├─ └─ ├─ biologic dmard
+├─ └─ ├─ └─ ├─ └─ monoclonal antibody
+├─ └─ ├─ └─ ├─ └─ ├─ anti ku antibody
+├─ └─ ├─ └─ ├─ └─ ├─ il-12/23 inhibitor
+├─ └─ ├─ └─ ├─ └─ ├─ └─ ustekinumab
+├─ └─ ├─ └─ ├─ └─ ├─ il-17 inhibitor
+├─ └─ ├─ └─ ├─ └─ ├─ ├─ ixekizumab
+├─ └─ ├─ └─ ├─ └─ ├─ └─ secukinumab
+├─ └─ ├─ └─ ├─ └─ ├─ anifrolumab
+├─ └─ ├─ └─ ├─ └─ ├─ interleukin-6 receptor antagonist
+├─ └─ ├─ └─ ├─ └─ ├─ └─ tocilizumab
+├─ └─ ├─ └─ ├─ └─ ├─ canakinumab
+├─ └─ ├─ └─ ├─ └─ ├─ belimumab
+├─ └─ ├─ └─ ├─ └─ ├─ anti tumor necrosis factor
+├─ └─ ├─ └─ ├─ └─ ├─ └─ tnf-alpha inhibitor
+├─ └─ ├─ └─ ├─ └─ ├─ └─ ├─ infliximab
+├─ └─ ├─ └─ ├─ └─ ├─ └─ ├─ certolizumab pegol
+├─ └─ ├─ └─ ├─ └─ ├─ └─ ├─ golimumab
+├─ └─ ├─ └─ ├─ └─ ├─ └─ └─ adalimumab
+├─ └─ ├─ └─ ├─ └─ ├─ denosumab
+├─ └─ ├─ └─ ├─ └─ └─ rituximab
+├─ └─ ├─ └─ ├─ cyclophosphamide
+├─ └─ ├─ └─ └─ csdmard
+├─ └─ ├─ └─ └─ ├─ leflunomide
+├─ └─ ├─ └─ └─ ├─ methotrexate
+├─ └─ ├─ └─ └─ ├─ hydroxychloroquine
+├─ └─ ├─ └─ └─ ├─ sulfasalazine
+├─ └─ ├─ └─ └─ ├─ azathioprine
+├─ └─ ├─ └─ └─ └─ mycophenolate
+├─ └─ └─ drug
+├─ └─ └─ ├─ small-molecule anti-inflammatory agent
+├─ └─ └─ ├─ ├─ rapamycin
+├─ └─ └─ ├─ ├─ corticosteroid
+├─ └─ └─ ├─ ├─ └─ glucocorticoids
+├─ └─ └─ ├─ ├─ └─ └─ intra-articular glucocorticoid
+├─ └─ └─ ├─ ├─ phosphodiesterase 4 inhibitor
+├─ └─ └─ ├─ ├─ leflunomide
+├─ └─ └─ ├─ ├─ methotrexate
+├─ └─ └─ ├─ ├─ anti-inflammatory agents non-steroidal
+├─ └─ └─ ├─ ├─ └─ naproxen
+├─ └─ └─ ├─ ├─ hydroxychloroquine
+├─ └─ └─ ├─ └─ colchicine
+├─ └─ └─ ├─ small molecule inhibitor
+├─ └─ └─ ├─ ├─ xanthine oxidase inhibitor
+├─ └─ └─ ├─ ├─ └─ allopurinol
+├─ └─ └─ ├─ ├─ anti-inflammatory agents non-steroidal
+├─ └─ └─ ├─ ├─ └─ naproxen
+├─ └─ └─ ├─ ├─ mycophenolate
+├─ └─ └─ ├─ ├─ kinase inhibitor
+├─ └─ └─ ├─ ├─ ├─ janus kinase inhibitor
+├─ └─ └─ ├─ ├─ └─ rapamycin
+├─ └─ └─ ├─ ├─ leflunomide
+├─ └─ └─ ├─ ├─ methotrexate
+├─ └─ └─ ├─ ├─ colchicine
+├─ └─ └─ ├─ ├─ phosphodiesterase inhibitor
+├─ └─ └─ ├─ ├─ └─ phosphodiesterase 4 inhibitor
+├─ └─ └─ ├─ ├─ bisphosphonate
+├─ └─ └─ ├─ ├─ └─ alendronate
+├─ └─ └─ ├─ └─ lesinurad
+├─ └─ └─ ├─ antimalarial drug
+├─ └─ └─ ├─ └─ hydroxychloroquine
+├─ └─ └─ ├─ biologic agent
+├─ └─ └─ ├─ └─ biologic dmard
+├─ └─ └─ ├─ └─ └─ monoclonal antibody
+├─ └─ └─ ├─ └─ └─ ├─ anti ku antibody
+├─ └─ └─ ├─ └─ └─ ├─ il-12/23 inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ └─ ustekinumab
+├─ └─ └─ ├─ └─ └─ ├─ il-17 inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ ├─ ixekizumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ secukinumab
+├─ └─ └─ ├─ └─ └─ ├─ anifrolumab
+├─ └─ └─ ├─ └─ └─ ├─ interleukin-6 receptor antagonist
+├─ └─ └─ ├─ └─ └─ ├─ └─ tocilizumab
+├─ └─ └─ ├─ └─ └─ ├─ canakinumab
+├─ └─ └─ ├─ └─ └─ ├─ belimumab
+├─ └─ └─ ├─ └─ └─ ├─ anti tumor necrosis factor
+├─ └─ └─ ├─ └─ └─ ├─ └─ tnf-alpha inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ infliximab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ certolizumab pegol
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ golimumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ └─ adalimumab
+├─ └─ └─ ├─ └─ └─ ├─ denosumab
+├─ └─ └─ ├─ └─ └─ └─ rituximab
+├─ └─ └─ ├─ antiresorptive drug
+├─ └─ └─ ├─ └─ bisphosphonate
+├─ └─ └─ ├─ └─ └─ alendronate
+├─ └─ └─ ├─ biologic therapy
+├─ └─ └─ ├─ ├─ abatacept
+├─ └─ └─ ├─ ├─ biologic disease modifying osteoarthritis drug
+├─ └─ └─ ├─ └─ biologic dmard
+├─ └─ └─ ├─ └─ └─ monoclonal antibody
+├─ └─ └─ ├─ └─ └─ ├─ anti ku antibody
+├─ └─ └─ ├─ └─ └─ ├─ il-12/23 inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ └─ ustekinumab
+├─ └─ └─ ├─ └─ └─ ├─ il-17 inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ ├─ ixekizumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ secukinumab
+├─ └─ └─ ├─ └─ └─ ├─ anifrolumab
+├─ └─ └─ ├─ └─ └─ ├─ interleukin-6 receptor antagonist
+├─ └─ └─ ├─ └─ └─ ├─ └─ tocilizumab
+├─ └─ └─ ├─ └─ └─ ├─ canakinumab
+├─ └─ └─ ├─ └─ └─ ├─ belimumab
+├─ └─ └─ ├─ └─ └─ ├─ anti tumor necrosis factor
+├─ └─ └─ ├─ └─ └─ ├─ └─ tnf-alpha inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ infliximab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ certolizumab pegol
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ golimumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ └─ adalimumab
+├─ └─ └─ ├─ └─ └─ ├─ denosumab
+├─ └─ └─ ├─ └─ └─ └─ rituximab
+├─ └─ └─ ├─ biologic treatment
+├─ └─ └─ ├─ └─ biologic dmard
+├─ └─ └─ ├─ └─ └─ monoclonal antibody
+├─ └─ └─ ├─ └─ └─ ├─ anti ku antibody
+├─ └─ └─ ├─ └─ └─ ├─ il-12/23 inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ └─ ustekinumab
+├─ └─ └─ ├─ └─ └─ ├─ il-17 inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ ├─ ixekizumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ secukinumab
+├─ └─ └─ ├─ └─ └─ ├─ anifrolumab
+├─ └─ └─ ├─ └─ └─ ├─ interleukin-6 receptor antagonist
+├─ └─ └─ ├─ └─ └─ ├─ └─ tocilizumab
+├─ └─ └─ ├─ └─ └─ ├─ canakinumab
+├─ └─ └─ ├─ └─ └─ ├─ belimumab
+├─ └─ └─ ├─ └─ └─ ├─ anti tumor necrosis factor
+├─ └─ └─ ├─ └─ └─ ├─ └─ tnf-alpha inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ infliximab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ certolizumab pegol
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ golimumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ └─ adalimumab
+├─ └─ └─ ├─ └─ └─ ├─ denosumab
+├─ └─ └─ ├─ └─ └─ └─ rituximab
+├─ └─ └─ ├─ alkylating agent
+├─ └─ └─ ├─ └─ cyclophosphamide
+├─ └─ └─ ├─ chondroitin sulfate
+├─ └─ └─ ├─ glucosamine
+├─ └─ └─ ├─ uric acid-lowering drug
+├─ └─ └─ ├─ └─ xanthine oxidase inhibitor
+├─ └─ └─ ├─ └─ └─ allopurinol
+├─ └─ └─ ├─ antirheumatic agent
+├─ └─ └─ ├─ └─ antirheumatic drug
+├─ └─ └─ ├─ └─ ├─ colchicine
+├─ └─ └─ ├─ └─ ├─ anti-inflammatory agents non-steroidal
+├─ └─ └─ ├─ └─ ├─ └─ naproxen
+├─ └─ └─ ├─ └─ ├─ disease modifying antirheumatic drug
+├─ └─ └─ ├─ └─ ├─ ├─ combination disease modifying anti rheumatic drug
+├─ └─ └─ ├─ └─ ├─ ├─ biologic disease-modifying antirheumatic drug
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ abatacept
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ etanercept
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ monoclonal antibody
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ anti ku antibody
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ il-12/23 inhibitor
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ └─ ustekinumab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ il-17 inhibitor
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ ├─ ixekizumab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ └─ secukinumab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ anifrolumab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ interleukin-6 receptor antagonist
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ └─ tocilizumab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ canakinumab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ belimumab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ anti tumor necrosis factor
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ └─ tnf-alpha inhibitor
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ └─ ├─ infliximab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ └─ ├─ certolizumab pegol
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ └─ ├─ golimumab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ └─ └─ adalimumab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ ├─ denosumab
+├─ └─ └─ ├─ └─ ├─ ├─ ├─ └─ rituximab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ biologic disease modifying osteoarthritis drug
+├─ └─ └─ ├─ └─ ├─ ├─ biologic dmard
+├─ └─ └─ ├─ └─ ├─ ├─ └─ monoclonal antibody
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ anti ku antibody
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ il-12/23 inhibitor
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ └─ ustekinumab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ il-17 inhibitor
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ ├─ ixekizumab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ └─ secukinumab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ anifrolumab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ interleukin-6 receptor antagonist
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ └─ tocilizumab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ canakinumab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ belimumab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ anti tumor necrosis factor
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ └─ tnf-alpha inhibitor
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ └─ ├─ infliximab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ └─ ├─ certolizumab pegol
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ └─ ├─ golimumab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ └─ └─ adalimumab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ ├─ denosumab
+├─ └─ └─ ├─ └─ ├─ ├─ └─ └─ rituximab
+├─ └─ └─ ├─ └─ ├─ └─ disease modifying anti rheumatic drug synthetic
+├─ └─ └─ ├─ └─ ├─ └─ └─ csdmard
+├─ └─ └─ ├─ └─ ├─ └─ └─ ├─ leflunomide
+├─ └─ └─ ├─ └─ ├─ └─ └─ ├─ methotrexate
+├─ └─ └─ ├─ └─ ├─ └─ └─ ├─ hydroxychloroquine
+├─ └─ └─ ├─ └─ ├─ └─ └─ ├─ sulfasalazine
+├─ └─ └─ ├─ └─ ├─ └─ └─ ├─ azathioprine
+├─ └─ └─ ├─ └─ ├─ └─ └─ └─ mycophenolate
+├─ └─ └─ ├─ └─ └─ immunosuppressive agent
+├─ └─ └─ ├─ └─ └─ ├─ rapamycin
+├─ └─ └─ ├─ └─ └─ ├─ corticosteroid
+├─ └─ └─ ├─ └─ └─ ├─ └─ glucocorticoids
+├─ └─ └─ ├─ └─ └─ ├─ └─ └─ intra-articular glucocorticoid
+├─ └─ └─ ├─ └─ └─ ├─ interleukin inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ biologic dmard
+├─ └─ └─ ├─ └─ └─ ├─ └─ monoclonal antibody
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ anti ku antibody
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ il-12/23 inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ └─ ustekinumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ il-17 inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ ├─ ixekizumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ └─ secukinumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ anifrolumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ interleukin-6 receptor antagonist
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ └─ tocilizumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ canakinumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ belimumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ anti tumor necrosis factor
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ └─ tnf-alpha inhibitor
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ └─ ├─ infliximab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ └─ ├─ certolizumab pegol
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ └─ ├─ golimumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ └─ └─ adalimumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ ├─ denosumab
+├─ └─ └─ ├─ └─ └─ ├─ └─ └─ rituximab
+├─ └─ └─ ├─ └─ └─ ├─ cyclophosphamide
+├─ └─ └─ ├─ └─ └─ └─ csdmard
+├─ └─ └─ ├─ └─ └─ └─ ├─ leflunomide
+├─ └─ └─ ├─ └─ └─ └─ ├─ methotrexate
+├─ └─ └─ ├─ └─ └─ └─ ├─ hydroxychloroquine
+├─ └─ └─ ├─ └─ └─ └─ ├─ sulfasalazine
+├─ └─ └─ ├─ └─ └─ └─ ├─ azathioprine
+├─ └─ └─ ├─ └─ └─ └─ └─ mycophenolate
+├─ └─ └─ └─ analgesic
+├─ └─ └─ └─ ├─ opioid
+├─ └─ └─ └─ └─ anti-inflammatory agents non-steroidal
+├─ └─ └─ └─ └─ └─ naproxen
+├─ presentation
+├─ └─ clinical presentation
+├─ └─ └─ symptom
+├─ └─ └─ └─ fibromyalgia
+├─ biological entity
+├─ ├─ anatomical entity
+├─ ├─ ├─ morphological findings
+├─ ├─ ├─ ├─ neutrophil extracellular trap
+├─ ├─ ├─ ├─ syndesmophyte
+├─ ├─ ├─ ├─ bone morphological finding
+├─ ├─ ├─ ├─ ├─ bone erosion
+├─ ├─ ├─ ├─ ├─ └─ erosion
+├─ ├─ ├─ ├─ ├─ bone marrow oedema
+├─ ├─ ├─ ├─ ├─ vertebral deformation
+├─ ├─ ├─ ├─ ├─ radiographic damage
+├─ ├─ ├─ ├─ └─ vertebral fracture
+├─ ├─ ├─ └─ crystal
+├─ ├─ ├─ └─ ├─ monosodium urate crystal
+├─ ├─ ├─ └─ └─ calcium crystal
+├─ ├─ ├─ immune system component
+├─ ├─ ├─ └─ immune complex
+├─ ├─ └─ anatomical structure
+├─ ├─ └─ ├─ synovial structure
+├─ ├─ └─ ├─ ├─ synovial tissue
+├─ ├─ └─ ├─ ├─ └─ synovium
+├─ ├─ └─ ├─ ├─ synovial fluid
+├─ ├─ └─ ├─ ├─ knee
+├─ ├─ └─ ├─ └─ sacroiliac joint
+├─ ├─ └─ ├─ vesicle
+├─ ├─ └─ ├─ └─ membrane microvesicle
+├─ ├─ └─ ├─ vascular structure
+├─ ├─ └─ ├─ └─ microcirculation
+├─ ├─ └─ ├─ bone-cartilage unit
+├─ ├─ └─ ├─ ├─ joint
+├─ ├─ └─ ├─ ├─ ├─ sacroiliac joint
+├─ ├─ └─ ├─ ├─ └─ knee
+├─ ├─ └─ ├─ └─ osteochondral unit
+├─ ├─ └─ ├─ cell
+├─ ├─ └─ ├─ ├─ stem cell
+├─ ├─ └─ ├─ ├─ └─ mesenchymal stem cell
+├─ ├─ └─ ├─ ├─ chondrocyte
+├─ ├─ └─ ├─ ├─ └─ superficial articular chondrocyte
+├─ ├─ └─ ├─ ├─ immune cell
+├─ ├─ └─ ├─ ├─ ├─ dendritic cell
+├─ ├─ └─ ├─ ├─ ├─ └─ tolerogenic dendritic cell
+├─ ├─ └─ ├─ ├─ ├─ lymphocyte
+├─ ├─ └─ ├─ ├─ ├─ ├─ t lymphocyte subset
+├─ ├─ └─ ├─ ├─ ├─ ├─ ├─ cluster of differentiation 4 positive t lymphocyte
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ polyfunctional t cell
+├─ ├─ └─ ├─ ├─ ├─ ├─ t cells
+├─ ├─ └─ ├─ ├─ ├─ ├─ ├─ t helper cells
+├─ ├─ └─ ├─ ├─ ├─ ├─ ├─ ├─ t helper 1 cell
+├─ ├─ └─ ├─ ├─ ├─ ├─ ├─ ├─ t follicular helper cell
+├─ ├─ └─ ├─ ├─ ├─ ├─ ├─ └─ t helper 17 cell
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ regulatory t cell rheumatoid arthritis
+├─ ├─ └─ ├─ ├─ ├─ ├─ └─ └─ t regulatory type 1 cell
+├─ ├─ └─ ├─ ├─ ├─ └─ b lymphocyte
+├─ ├─ └─ ├─ ├─ ├─ └─ └─ cluster of differentiation 19 positive b lymphocyte
+├─ ├─ └─ ├─ ├─ └─ myeloid cell
+├─ ├─ └─ ├─ ├─ └─ ├─ neutrophil
+├─ ├─ └─ ├─ ├─ └─ └─ monocyte
+├─ ├─ └─ ├─ ├─ └─ └─ └─ macrophage
+├─ ├─ └─ ├─ ├─ └─ └─ └─ ├─ macrophage polarization
+├─ ├─ └─ ├─ ├─ └─ └─ └─ └─ osteoclast
+├─ ├─ └─ ├─ └─ fibroblast
+├─ ├─ └─ ├─ └─ └─ fibroblast like synoviocyte
+├─ ├─ └─ ├─ gut barrier
+├─ ├─ └─ ├─ germinal center
+├─ ├─ └─ ├─ gland
+├─ ├─ └─ ├─ └─ labial salivary gland
+├─ ├─ └─ └─ tissue
+├─ ├─ └─ └─ └─ tissue unit
+├─ ├─ └─ └─ └─ ├─ synovium
+├─ ├─ └─ └─ └─ ├─ osteochondral unit
+├─ ├─ └─ └─ └─ ├─ cartilage
+├─ ├─ └─ └─ └─ └─ enthesis
+├─ ├─ biomolecule
+├─ ├─ ├─ molecular entity
+├─ ├─ ├─ ├─ small molecule
+├─ ├─ ├─ ├─ ├─ lesinurad
+├─ ├─ ├─ ├─ ├─ allopurinol
+├─ ├─ ├─ ├─ ├─ anti-inflammatory agents non-steroidal
+├─ ├─ ├─ ├─ ├─ └─ naproxen
+├─ ├─ ├─ ├─ ├─ mycophenolate
+├─ ├─ ├─ ├─ ├─ leflunomide
+├─ ├─ ├─ ├─ ├─ methotrexate
+├─ ├─ ├─ ├─ ├─ hydroxychloroquine
+├─ ├─ ├─ ├─ └─ metabolite
+├─ ├─ ├─ ├─ └─ ├─ glucosamine
+├─ ├─ ├─ ├─ └─ ├─ rapamycin
+├─ ├─ ├─ ├─ └─ ├─ urate
+├─ ├─ ├─ ├─ └─ └─ glucocorticoids
+├─ ├─ ├─ ├─ └─ └─ └─ intra-articular glucocorticoid
+├─ ├─ ├─ ├─ chemical
+├─ ├─ ├─ ├─ ├─ peptide
+├─ ├─ ├─ ├─ ├─ └─ endothelin
+├─ ├─ ├─ ├─ ├─ protein
+├─ ├─ ├─ ├─ ├─ ├─ receptor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ cell adhesion molecule
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ integrin
+├─ ├─ ├─ ├─ ├─ ├─ ├─ fc gamma receptor iia
+├─ ├─ ├─ ├─ ├─ ├─ ├─ toll-like receptors
+├─ ├─ ├─ ├─ ├─ ├─ └─ nlrp3
+├─ ├─ ├─ ├─ ├─ ├─ pyrin
+├─ ├─ ├─ ├─ ├─ ├─ protein complex
+├─ ├─ ├─ ├─ ├─ ├─ ├─ antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ monoclonal antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ anti ku antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ il-12/23 inhibitor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ustekinumab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ il-17 inhibitor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ixekizumab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ secukinumab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ anifrolumab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ interleukin-6 receptor antagonist
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ tocilizumab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ canakinumab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ belimumab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ anti tumor necrosis factor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ tnf-alpha inhibitor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ infliximab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ certolizumab pegol
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ golimumab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ └─ adalimumab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ denosumab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ rituximab
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ autoantibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ anticardiolipin antibodies
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ myositis associated autoantibodies
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ anti ku antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ anti ro52 autoantibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ └─ antisynthetase syndrome
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ anti citrullinated protein antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ anti modified protein antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ anti centromere antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ rheumatoid factor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ bone biomarker
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ bone morphogenetic protein
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ └─ growth differentiation factor 5
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ └─ bone mineral density
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ immune complex
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ gene
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ mediterranean fever gene
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ human leukocyte antigen
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ ├─ human leukocyte antigen dr
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ ├─ └─ human leukocyte antigen drb1
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ └─ human leukocyte antigen b27
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ fam167a
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ └─ wnt16
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ modified stoke ankylosing spondylitis spine score
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ tenascin c
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ molecular target
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ peptidyl arginine deiminase
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ └─ peptidylarginine deiminase 4
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ ligand
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ ├─ ox40 ligand
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ └─ human leukocyte antigen drb1
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ peroxisome proliferator activated receptor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ └─ peroxisome proliferator activated receptor gamma
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ acid sensing ion channel 3
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ toll-like receptors
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ activin receptor like kinase 2
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ fc gamma receptor iia
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ mammalian target of rapamycin
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ └─ signal transducer and activator of transcription 4
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ rs2230926
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ interleukin-12
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ protein biomarker
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ indoleamine 2 3 dioxygenase
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ human leukocyte antigen b27
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ sialic acid binding ig like lectin 1
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ s100a protein
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ parathyroid hormone related protein
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ proteasome subunit beta type 8
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ matrix gla protein
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ matrix metalloproteinase
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ peptidylarginine deiminase 4
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ wnt16
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ cytosolic phospholipase a2
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ galectin 9
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ bone morphogenetic protein
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ └─ growth differentiation factor 5
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ anti ro52 autoantibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ cluster of differentiation 109
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ └─ glycoprotein non metastatic melanoma protein b
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ systemic lupus erythematosus disease activity index
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ complement activation
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ interleukin-6
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ urate
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ interferon signature
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ b cell receptor repertoire
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ integrin
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ glycan biomarker
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ ├─ n linked variable domain v domain glycan
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ └─ glycosaminoglycan
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ └─ ├─ chondroitin sulfate
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ └─ └─ chondroitin
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ adenosine deaminase 2
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ neutrophil cytosolic factor 1
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ interleukin receptor antagonist protein
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ b cell activating factor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ └─ neutrophil
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ antinuclear antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ ├─ anti ku antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ └─ anti ro52 autoantibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ antiphospholipid antibodies
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ ├─ anti cyclic citrullinated peptide antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ └─ antineutrophil cytoplasmic antibody
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ └─ └─ myeloperoxidase anti neutrophil cytoplasmic antibody
+├─ ├─ ├─ ├─ ├─ ├─ └─ proteasome
+├─ ├─ ├─ ├─ ├─ ├─ └─ └─ immunoproteasome
+├─ ├─ ├─ ├─ ├─ ├─ transcription factor
+├─ ├─ ├─ ├─ ├─ ├─ └─ signal transducer and activator of transcription 4
+├─ ├─ ├─ ├─ ├─ ├─ programmed cell death protein 1
+├─ ├─ ├─ ├─ ├─ ├─ enzyme
+├─ ├─ ├─ ├─ ├─ ├─ ├─ adenosine deaminase 2
+├─ ├─ ├─ ├─ ├─ ├─ ├─ protein kinase
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ mammalian target of rapamycin
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ janus kinase
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ tyrosine kinase 2
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ activin receptor like kinase 2
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ focal adhesion kinase
+├─ ├─ ├─ ├─ ├─ ├─ └─ cytosolic phospholipase a2
+├─ ├─ ├─ ├─ ├─ ├─ amyloid
+├─ ├─ ├─ ├─ ├─ ├─ cytokine
+├─ ├─ ├─ ├─ ├─ ├─ ├─ adipokine
+├─ ├─ ├─ ├─ ├─ ├─ ├─ growth factor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ vascular endothelial growth factor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ nerve growth factor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ bone morphogenetic protein
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ growth differentiation factor 5
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ transforming growth factor beta
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ b cell activating factor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ interleukin
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ interleukin 23
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ interleukin-12
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ interleukin 17
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ interleukin 1
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ interleukin 1 beta
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ interleukin-6
+├─ ├─ ├─ ├─ ├─ ├─ ├─ tumor necrosis factors
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ tumor necrosis factor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ tumor necrosis factor alpha
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ b cell activating factor
+├─ ├─ ├─ ├─ ├─ ├─ ├─ interferon
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ interferon alpha
+├─ ├─ ├─ ├─ ├─ ├─ └─ interleukin receptor antagonist protein
+├─ ├─ ├─ ├─ ├─ └─ lectin
+├─ ├─ ├─ ├─ ├─ └─ └─ galectin 9
+├─ ├─ ├─ ├─ └─ uric acid
+├─ ├─ ├─ ├─ purine derivative
+├─ ├─ ├─ ├─ └─ uric acid
+├─ ├─ ├─ └─ sugar amine
+├─ ├─ ├─ └─ └─ glucosamine
+├─ ├─ ├─ cell
+├─ ├─ ├─ ├─ stem cell
+├─ ├─ ├─ ├─ └─ mesenchymal stem cell
+├─ ├─ ├─ ├─ chondrocyte
+├─ ├─ ├─ ├─ └─ superficial articular chondrocyte
+├─ ├─ ├─ ├─ immune cell
+├─ ├─ ├─ ├─ ├─ dendritic cell
+├─ ├─ ├─ ├─ ├─ └─ tolerogenic dendritic cell
+├─ ├─ ├─ ├─ ├─ lymphocyte
+├─ ├─ ├─ ├─ ├─ ├─ t lymphocyte subset
+├─ ├─ ├─ ├─ ├─ ├─ ├─ cluster of differentiation 4 positive t lymphocyte
+├─ ├─ ├─ ├─ ├─ ├─ └─ polyfunctional t cell
+├─ ├─ ├─ ├─ ├─ ├─ t cells
+├─ ├─ ├─ ├─ ├─ ├─ ├─ t helper cells
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ t helper 1 cell
+├─ ├─ ├─ ├─ ├─ ├─ ├─ ├─ t follicular helper cell
+├─ ├─ ├─ ├─ ├─ ├─ ├─ └─ t helper 17 cell
+├─ ├─ ├─ ├─ ├─ ├─ └─ regulatory t cell rheumatoid arthritis
+├─ ├─ ├─ ├─ ├─ ├─ └─ └─ t regulatory type 1 cell
+├─ ├─ ├─ ├─ ├─ └─ b lymphocyte
+├─ ├─ ├─ ├─ ├─ └─ └─ cluster of differentiation 19 positive b lymphocyte
+├─ ├─ ├─ ├─ └─ myeloid cell
+├─ ├─ ├─ ├─ └─ ├─ neutrophil
+├─ ├─ ├─ ├─ └─ └─ monocyte
+├─ ├─ ├─ ├─ └─ └─ └─ macrophage
+├─ ├─ ├─ ├─ └─ └─ └─ ├─ macrophage polarization
+├─ ├─ ├─ ├─ └─ └─ └─ └─ osteoclast
+├─ ├─ ├─ └─ fibroblast
+├─ ├─ ├─ └─ └─ fibroblast like synoviocyte
+├─ ├─ └─ signaling pathway
+├─ ├─ └─ └─ tumor necrosis factor signalling
+├─ └─ organism
+├─ └─ └─ microorganism
+├─ └─ └─ └─ pathogen
+├─ └─ └─ └─ ├─ virus
+├─ └─ └─ └─ ├─ └─ epstein barr virus
+├─ └─ └─ └─ └─ porphyromonas gingivalis
+├─ finding
+├─ └─ pathological finding
+├─ └─ ├─ vascular change
+├─ └─ ├─ └─ vascular remodeling
+├─ └─ ├─ joint damage
+├─ └─ ├─ ├─ bone erosion
+├─ └─ ├─ ├─ └─ erosion
+├─ └─ ├─ └─ radiographic damage
+├─ └─ ├─ fibrosis
+├─ └─ ├─ └─ skin fibrosis
+├─ └─ ├─ └─ ├─ dermal fibrosis
+├─ └─ ├─ └─ └─ progressive skin fibrosis
+├─ └─ └─ lesion
+├─ └─ └─ └─ bone lesion
+├─ └─ └─ └─ └─ syndesmophyte
+├─ condition
+├─ ├─ secondary hypogammaglobulinemia
+├─ └─ hyperuricemia
+├─ └─ ├─ gout
+├─ └─ ├─ ├─ inpatient gout
+├─ └─ ├─ └─ gout flare
+├─ └─ └─ asymptomatic hyperuricemia
+├─ clinical manifestation
+├─ └─ clinical presentation
+├─ └─ └─ symptom
+├─ └─ └─ └─ fibromyalgia
+├─ risk factors
+├─ ├─ bone risk factor
+├─ ├─ ├─ hla shared epitope effect
+├─ ├─ ├─ obesity
+├─ ├─ └─ fracture risk
+├─ ├─ rheumatic disease risk factors
+├─ ├─ ├─ hla shared epitope effect
+├─ ├─ └─ alcohol consumption
+├─ ├─ familial risk
+├─ ├─ environmental factor
+├─ ├─ ├─ smoking
+├─ ├─ └─ mineral
+├─ ├─ └─ └─ silica
+├─ ├─ uric acid
+├─ └─ gene
+├─ └─ ├─ mediterranean fever gene
+├─ └─ ├─ human leukocyte antigen
+├─ └─ ├─ ├─ human leukocyte antigen dr
+├─ └─ ├─ ├─ └─ human leukocyte antigen drb1
+├─ └─ ├─ └─ human leukocyte antigen b27
+├─ └─ ├─ fam167a
+├─ └─ └─ wnt16
+└─ methods, giant cell arteritis, glucocorticoids, polymyalgia rheumatica, registries, rheumatic disease risk factors, treatment outcome
